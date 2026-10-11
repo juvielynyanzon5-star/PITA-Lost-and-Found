@@ -34,10 +34,38 @@ a:hover {
     background-color: #24669b;
 }
 nav {
-    text-align: center;
+    text-align: right;
+    margin-bottom: 30px;
+
+}
+
+#home {
+    text-align: top;
     margin-bottom: 30px;
 }
 
 nav a {
     margin: 5px;
+    
 }
+
+#logo {
+    text-align: top right;
+    margin-bottom: 1px;
+     
+}
+
+#Buttons{ 
+    text-align: right;
+    margin-top: 20px;
+}
+
+#opt{   
+    background-color: #ff0e1a;
+    
+}
+
+#choose{
+    background-color: #3f25c1;
+}
+
