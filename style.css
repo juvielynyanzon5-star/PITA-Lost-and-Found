@@ -69,3 +69,82 @@ nav a {
     background-color: #3f25c1;
 }
 
+.hero {
+    text-align: center;
+    padding: 20px;
+}
+
+
+.hero img {
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+
+/* Navigation bar design */
+nav {
+    background-color: #123b63;
+    padding: 18px;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 18px;
+    margin: 0 5px;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    background-color: #e5a900;
+    color: #123b63;
+}
+
+.welcome-text {
+    text-align: center;
+    padding: 25px 15px;
+}
+
+.welcome-text h1 {
+    color: #123b63;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.welcome-text h2 {
+    color: #24669b;
+    font-size: 22px;
+}
+
+.welcome-text p {
+    max-width: 650px;
+    margin: 15px auto 25px;
+    line-height: 1.7;
+}
+
+.home-buttons a {
+    display: inline-block;
+    background-color: #123b63;
+    color: white;
+    padding: 12px 20px;
+    margin: 6px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.home-buttons a:hover {
+    background-color: #e5a900;
+    color: #123b63;
+}
