@@ -144,6 +144,12 @@ nav a:hover {
     font-weight: bold;
 }
 
+/* Border for the welcome section */
+.welcome-text {
+    border: 2px solid #123b63;
+    border-radius: 10px;
+}
+
 .home-buttons a:hover {
     background-color: #e5a900;
     color: #123b63;
